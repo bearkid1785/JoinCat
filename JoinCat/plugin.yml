@@ -1,0 +1,5 @@
+name: JoinCat
+author: hoodbear
+version: 1.0.0
+main: JoinCat\Main
+api: [3.0.0, 4.0.0]
